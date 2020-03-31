@@ -55,7 +55,7 @@ def monopoly_with_fourth_tier
 	monopoly = {}
 
 	monopoly[:railroads] = {}
-end	
+end
 	monopoly[:railroads][:pieces] = 4
 	monopoly[:railroads][:names] = {}
 	monopoly[:railroads][:rent_in_dollars] = {}
