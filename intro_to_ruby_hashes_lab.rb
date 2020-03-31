@@ -48,7 +48,6 @@ def monopoly_with_third_tier
 	monopoly[:railroads][:names][:shortline] = {}
 
 	monopoly
-end	end
 end
 
 def monopoly_with_fourth_tier
